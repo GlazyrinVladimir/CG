@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\opengl\cg_course_examples-master\chapter_1\lesson_01\abstractwindow.h(4): fatal error C1083: Не удается открыть файл включение: boost/noncopyable.hpp: No such file or directory
+  AbstractWindow.cpp
+c:\opengl\cg_course_examples-master\chapter_1\lesson_01\abstractwindow.h(4): fatal error C1083: Не удается открыть файл включение: boost/noncopyable.hpp: No such file or directory
+  Создание кода...

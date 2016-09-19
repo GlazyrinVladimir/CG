@@ -1,0 +1,19 @@
+﻿  Window.cpp
+f:\lab1_2\lesson_03\window.cpp(73): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+f:\lab1_2\lesson_03\window.cpp(82): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+f:\lab1_2\lesson_03\window.cpp(87): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+f:\lab1_2\lesson_03\window.cpp(114): warning C4305: аргумент: усечение из "double" к "GLfloat"
+f:\lab1_2\lesson_03\window.cpp(115): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+f:\lab1_2\lesson_03\window.cpp(118): warning C4305: аргумент: усечение из "double" к "GLfloat"
+f:\lab1_2\lesson_03\window.cpp(119): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+f:\lab1_2\lesson_03\window.cpp(122): warning C4305: аргумент: усечение из "double" к "GLfloat"
+f:\lab1_2\lesson_03\window.cpp(123): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+f:\lab1_2\lesson_03\window.cpp(126): warning C4305: аргумент: усечение из "double" к "GLfloat"
+f:\lab1_2\lesson_03\window.cpp(132): warning C4305: аргумент: усечение из "double" к "GLfloat"
+  main.cpp
+  DispatchEvent.cpp
+  AbstractWindow.cpp
+  Создание кода...
+  LINK : не найден или не выполнена сборка F:\lab1_2\x64\Debug\Проект3.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Проект3.vcxproj -> F:\lab1_2\x64\Debug\Проект3.exe
+  Проект3.vcxproj -> F:\lab1_2\x64\Debug\Проект3.pdb (Partial PDB)
